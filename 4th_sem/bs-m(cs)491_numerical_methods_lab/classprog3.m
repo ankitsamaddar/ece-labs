@@ -1,0 +1,1 @@
+%find all trigonometric fuctions of a single variableclc;prompt = "Enter the variable ";x = input(prompt)printf("The Cos is %5.2f,\nthe Sin is %5.2f\nthe Tan is %5.2f\nthe Cosec is %5.2f\nthe Sec is %5.2f\nthe Cot is %5.2f\n",cos(x),sin(x),tan(x),csc(x),sec(x),cot(x));

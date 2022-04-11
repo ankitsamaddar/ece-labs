@@ -1,0 +1,1 @@
+%Matrix with all diagonals as 1clc;%rows=10;%columns=10;%step = 1;%for i = 1:step:rows%  for j = 1:step:columns%     if ((i == j) || ((i + j-1) == rows))%       matrix(i,j)=1;%     end%  endfor%endfor%%display (matrix)clear all;%x = randi([7,30],3,3);x=[16   29   69;   80   27   19;   30   19   23]sortrows(x)sortrows(x,3);disp('After sortimg');disp(ans);
