@@ -1,0 +1,1 @@
+start javaw -jar jar\8085Compiler.jar
