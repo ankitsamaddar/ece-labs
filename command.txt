@@ -1,0 +1,3 @@
+Powershell command used to create the above directory structure
+
+New-Item -ItemType Directory -Force -Path '.\3rd_sem\ec391_electronic_devices_lab.','.\3rd_sem\ec392_digital_system_design_lab.','.\3rd_sem\es-cs391__data_structure_lab(es)','.\4th_sem\ec491_analog_communication_lab','.\4th_sem\ec492_analog_electronic_circuits_lab.','.\4th_sem\ec493_microprocessor_&_microcontrollers_lab','.\4th_sem\bs-m(cs)491_numerical_methods_lab','.\5th_sem\ec591_electromagnetic_wave_lab','.\5th_sem\ec592_digital_communication_lab.','.\5th_sem\ec593_digital_signal_processing_lab.','.\6th_sem\ec691_computer_network_lab.','.\6th_sem\ec692_control_system_and_instrumentation_lab.','.\6th_sem\ec693_mini_project_electronic_design_workshop'
