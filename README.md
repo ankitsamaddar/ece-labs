@@ -31,7 +31,7 @@ This repository contains all the lab codes and files for the B.Tech in Electroni
 
 - [EC691 Computer Network Lab](6th_sem/ec691_computer_network_lab)
 - [EC692 Control System and Instrumentation Lab](6th_sem/ec692_control_system_and_instrumentation_lab)
-- [EC693 Mini Project/ Electronic Design Workshop](6th_sem/ec693_mini_project)
+- [EC693 Mini Project/ Electronic Design Workshop](6th_sem/ec693_mini_project_electronic_design_workshop)
 
 ## Usage
 
