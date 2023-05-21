@@ -6,14 +6,8 @@
 clc
 n=1;
 d1=[1 0.6 1];
-<<<<<<< HEAD
 sys1=tf(n,d1);
 d2=[1 10 25];
 sys2=tf(n,d2);
-=======
-sys1=tf(n,d1)
-d2=[1 10 25];
-sys2=tf(n,d2)
->>>>>>> 7f45bf3 (ec692: update exp2_damped)
 subplot(211),step(sys1),title('UNDERDAMPED'),grid on;
 subplot(212),step(sys2),title('UNDAMPED'),grid on;
